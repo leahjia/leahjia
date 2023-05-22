@@ -1,16 +1,33 @@
-### Hi there 👋
+[![Personal][personal-shield]][personal-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!--
-**leahjia/leahjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/leahjia/
+[personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
+[personal-url]: https://leahjia.com/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there 👋
+I am a software developer pursuing a Bachelor of Science degree in Informatics at the Information School, University of Washington, concentrating in Cybersecurity and Software Development. I enjoy building web applications that make life easier, and I have experience building full-stack web apps using Java, React, Javascript, TypeScript, and SQL. I also enjoy learning about network security and cloud computing, and I obtained my **AWS Certified Cloud Practitioner certification** in April 2023. My goal is to build and develop high-quality applications by utilizing best-fit technologies to deliver sustainable solutions and reliable products that meet customer needs and bring business value.
+
+### 🔭 Expertise
+
+- Languages: Java, JavaScript, TypeScript, SQL, Python, R, Linux/Unix, HTML, CSS
+- Developer Tools: React, Postman, Kali, Burp, MongoDB, Firebase
+- Cloud: Amazon Web Services, Microsoft Azure
+- CI/CD Tools: Jenkins, GitLab, Git
+- Containerization Tools: Docker
+    
+
+### 📙 I’m currently learning 
+
+- Cloud Computing
+- Software Architecture
+- Cybersecurity
+
+### 📫 How to reach me: 
+- LinkedIn: [@Leah Jia](https://www.linkedin.com/in/leahjia/)
+- Email: yuwenj3@uw.edu
+- Resume: [Leah Jia](https://leahjia.s3.amazonaws.com/resume)
+- More about me - [leahjia.com](https://leahjia.com/)
+
