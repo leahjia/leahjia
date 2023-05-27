@@ -8,7 +8,7 @@
 
 
 ### Hey there 👋
-I am a software developer pursuing a Bachelor of Science degree in Informatics at the Information School, University of Washington, concentrating in Cybersecurity and Software Development. I enjoy building web applications that make life easier, and I have experience building full-stack web apps using Java, React, Javascript, TypeScript, and SQL. I also enjoy learning about network security and cloud computing, and I obtained my **AWS Certified Cloud Practitioner certification** in April 2023. My goal is to build and develop high-quality applications by utilizing best-fit technologies to deliver sustainable solutions and reliable products that meet customer needs and bring business value.
+I'm a software developer pursuing a bachelor's degree at the UW iSchool studying Information Technology with a focus on Software Development and Cybersecurity. I enjoy building web applications that protect user information and make life easier, and I have experience building full-stack web apps using Java, React, Javascript, TypeScript, and SQL. Outside of school, I also enjoy learning about network security and cloud computing, and I obtained my **AWS Certified Cloud Practitioner** certification in April 2023 through independent study. My career goal is to build and develop high-quality applications by utilizing best-fit technologies to deliver sustainable solutions and reliable products that meet customer needs and bring business value.
 
 ### 🔭 Expertise
 
