@@ -12,11 +12,9 @@ I'm a software developer pursuing a bachelor's degree at the UW iSchool studying
 
 ### 🔭 Expertise
 
-- Languages: Java, JavaScript, TypeScript, SQL, Python, R, Linux/Unix, HTML, CSS
-- Developer Tools: React, Postman, Kali, Burp, MongoDB, Firebase
-- Cloud: Amazon Web Services, Microsoft Azure
-- CI/CD Tools: Jenkins, GitLab, Git
-- Containerization Tools: Docker
+- Languages: Java, JavaScript, TypeScript, SQL, Linux, HTML, CSS, Python, R
+- Developer Tools: React, Postman, Kali, Burp, MongoDB, GitLab, Git
+- Cloud: Amazon Web Services, Firebase, Azure
     
 
 ### 📙 I’m currently learning 
