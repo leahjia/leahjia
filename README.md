@@ -22,6 +22,7 @@ I'm a software developer pursuing a bachelor's degree at the UW iSchool studying
 - Cloud Computing
 - Software Architecture
 - Cybersecurity
+- AWS Certified Developer - Associate (DVA-C02)
 
 ### 📫 How to reach me: 
 - LinkedIn: [@Leah Jia](https://www.linkedin.com/in/leahjia/)
