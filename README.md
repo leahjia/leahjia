@@ -26,8 +26,7 @@ I am a software developer pursuing a bachelor's degree at the Information School
 - AWS Certified Developer - Associate (DVA-C02)
 
 ### 📫 How to reach me: 
-- LinkedIn: [@Leah Jia](https://www.linkedin.com/in/leahjia/){:target="_blank"}
-- Email: yuwenj3@uw.edu
-- Resume: [Leah Jia](https://leahjia.s3.amazonaws.com/resume){:target="_blank"}
-- More about me - [leahjia.com](https://leahjia.com/){:target="_blank"}
+- LinkedIn: [@Leah Jia](https://www.linkedin.com/in/leahjia/)
+- Resume: [Leah Jia](https://leahjia.s3.amazonaws.com/resume)
+- More about me - [leahjia.com](https://leahjia.com/)
 
