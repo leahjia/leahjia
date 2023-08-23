@@ -16,7 +16,6 @@ My career goal is to build and develop high-quality applications by utilizing be
 
 - Languages: Java, JavaScript, TypeScript, SQL, Linux, HTML, CSS, Apex, Python, R
 - Developer Tools: React, Postman, Kali, Burp, MongoDB, GitLab, Git, Jira, Salesforce
-- ML technologies: Salesforce chatbot, Einstein Prediction Builder, Google Analytics
 - Cloud: Amazon Web Services, Firebase, Azure
 
 ### 📙 I’m currently learning
