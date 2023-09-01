@@ -46,9 +46,9 @@ My career goal is to build and develop high-quality applications by utilizing be
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leahjia&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro#gh-dark-mode-only"><img alt="Leah's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahjia&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&langs_count=8&count_weight=0.5&layout=compact&theme=one_dark_pro#gh-dark-mode-only" height="192px"/></a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=leahjia&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only"><img alt="Leah's Top Languages (refresh)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leahjia&exclude_repo=sam-server,sam-project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=one_dark_pro&bg_color=00000000&border_color=e2e2e2&text_color=ce832c#gh-light-mode-only" height="192px"/></a>
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/leahjia/
-[personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
+[personal-shield]: https://img.shields.io/badge/Leah-Jia-75bbe2?style=for-the-badge
 [personal-url]: https://leahjia.com/
-[email-shield]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-shield]: https://img.shields.io/badge/email-153595?style=for-the-badge&logo=gmail&logoColor=white
 [email-url]: mailto:yuwenj3@uw.edu
