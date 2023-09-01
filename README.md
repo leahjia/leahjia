@@ -1,5 +1,6 @@
 [![Personal][personal-shield]][personal-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![][email-shield]][email-url]
 
 <p align="center">
 <a href="https://leahjia.com"><img width="90%" alt="I am Leah" src="./wall.png" /></a>
@@ -49,3 +50,5 @@ My career goal is to build and develop high-quality applications by utilizing be
 [linkedin-url]: https://linkedin.com/in/leahjia/
 [personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
 [personal-url]: https://leahjia.com/
+[email-shield]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[email-url]: mailto:yuwenj3@uw.edu
