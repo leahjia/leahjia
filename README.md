@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://leahjia.com"><img width="90%" alt="I am Leah" src="./wall.png" /></a>
-<a href="https://leahjia.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7CC&center=true&vCenter=true&width=435&lines=Software+Developer+%26+Student;Learning+%26+Building+%26+Exploring" alt="Typing" /></a>
+<a href="https://leahjia.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7CC&center=true&vCenter=true&width=435&lines=Software+Engineer;Learning+%26+Building+%26+Exploring" alt="Typing" /></a>
 </p>
 
 I'm a software developer with a strong focus on Software Development and Cybersecurity, currently pursuing a bachelor's degree at the Information School at the University of Washington. I enjoy building web applications that create flexibility and prioritize data security while delivering efficient solutions. In my journey as a developer, I have gained experience in building full-stack web applications using technologies including Java, React.JS, TypeScript, and SQL.
