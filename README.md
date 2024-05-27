@@ -29,7 +29,6 @@ My career goal is to build and develop high-quality applications by utilizing be
 ### 📫 How to reach me:
 
 - LinkedIn: [@Leah Jia](https://www.linkedin.com/in/leahjia/)
-- Resume: [Leah Jia](https://leahjia.s3.amazonaws.com/resume)
 - More about me - [leahjia.com](https://leahjia.com/)
 
 <picture>
